@@ -20,7 +20,7 @@ class ExampleUnitTest {
         println(a)
         val args:ArrayList<String> = ArrayList()
         args.add("1")
-        printInt("aaa").toString()
+//        printInt("aaa").toString()
     }
 
     fun sum(a: Int, b:Int) = (a + b).toString()
