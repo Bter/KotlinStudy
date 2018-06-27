@@ -16,6 +16,11 @@ out/
 # Gradle files
 .gradle/
 build/
+.externalNativeBuild
+*.iml
+/local.properties
+/.idea/
+.DS_Store
 
 # Local configuration file (sdk path, etc)
 local.properties
